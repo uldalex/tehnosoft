@@ -221,4 +221,10 @@ display:none;
 .pagination__link_start, .pagination__link_end, .pagination__link.active, .pagination__link_searh{
 display:block;
 }
+.pagination-list{
+flex-wrap: nowrap;
+}
+.pagination-searsh{
+margin-top:-20px;
+}
 }
