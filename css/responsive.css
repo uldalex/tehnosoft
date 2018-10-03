@@ -214,6 +214,11 @@ min-width: 100%;
 }	
 .product-descr__links ul, .login__links ul {
     flex-wrap: wrap;
-  
+}
+.pagination__link{
+display:none;
+}
+.pagination__link_start, .pagination__link_end, .pagination__link.active, .pagination__link_searh{
+display:block;
 }
 }

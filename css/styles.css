@@ -2069,7 +2069,6 @@ a.pagination__link:hover, a.pagination__link:active, a.pagination__link:focus, a
 .pagination__link_start, .pagination__link_end{
 	padding: 10px 25px;
 }
-
 .pagination-searsh__text{
     color: #9A9A9A;
     padding-right:10px; 
