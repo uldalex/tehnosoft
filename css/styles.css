@@ -1738,7 +1738,11 @@ border-radius:50%;
 overflow:hidden;
 min-width: 68px; 
 }
-.user__content{ padding-left:20px;}
+.user__content{ 
+padding-left:20px;
+width: 100%;
+}
+}
 .user-title__content{
     flex-direction: column;	
 justify-content: flex-start;
